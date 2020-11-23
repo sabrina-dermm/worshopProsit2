@@ -1,0 +1,13 @@
+C:\Users\dermeche\source\repos\workshopProsit2\worshopProsit2\WorkshopProsit2\WorkshopProsit2\bin\Debug\netcoreapp3.1\WorkshopProsit2.exe
+C:\Users\dermeche\source\repos\workshopProsit2\worshopProsit2\WorkshopProsit2\WorkshopProsit2\bin\Debug\netcoreapp3.1\WorkshopProsit2.deps.json
+C:\Users\dermeche\source\repos\workshopProsit2\worshopProsit2\WorkshopProsit2\WorkshopProsit2\bin\Debug\netcoreapp3.1\WorkshopProsit2.runtimeconfig.json
+C:\Users\dermeche\source\repos\workshopProsit2\worshopProsit2\WorkshopProsit2\WorkshopProsit2\bin\Debug\netcoreapp3.1\WorkshopProsit2.runtimeconfig.dev.json
+C:\Users\dermeche\source\repos\workshopProsit2\worshopProsit2\WorkshopProsit2\WorkshopProsit2\bin\Debug\netcoreapp3.1\WorkshopProsit2.dll
+C:\Users\dermeche\source\repos\workshopProsit2\worshopProsit2\WorkshopProsit2\WorkshopProsit2\bin\Debug\netcoreapp3.1\WorkshopProsit2.pdb
+C:\Users\dermeche\source\repos\workshopProsit2\worshopProsit2\WorkshopProsit2\WorkshopProsit2\obj\Debug\netcoreapp3.1\WorkshopProsit2.csprojAssemblyReference.cache
+C:\Users\dermeche\source\repos\workshopProsit2\worshopProsit2\WorkshopProsit2\WorkshopProsit2\obj\Debug\netcoreapp3.1\WorkshopProsit2.AssemblyInfoInputs.cache
+C:\Users\dermeche\source\repos\workshopProsit2\worshopProsit2\WorkshopProsit2\WorkshopProsit2\obj\Debug\netcoreapp3.1\WorkshopProsit2.AssemblyInfo.cs
+C:\Users\dermeche\source\repos\workshopProsit2\worshopProsit2\WorkshopProsit2\WorkshopProsit2\obj\Debug\netcoreapp3.1\WorkshopProsit2.csproj.CoreCompileInputs.cache
+C:\Users\dermeche\source\repos\workshopProsit2\worshopProsit2\WorkshopProsit2\WorkshopProsit2\obj\Debug\netcoreapp3.1\WorkshopProsit2.dll
+C:\Users\dermeche\source\repos\workshopProsit2\worshopProsit2\WorkshopProsit2\WorkshopProsit2\obj\Debug\netcoreapp3.1\WorkshopProsit2.pdb
+C:\Users\dermeche\source\repos\workshopProsit2\worshopProsit2\WorkshopProsit2\WorkshopProsit2\obj\Debug\netcoreapp3.1\WorkshopProsit2.genruntimeconfig.cache
